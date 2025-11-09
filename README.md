@@ -16,5 +16,7 @@ Dengan cara ini, Flutter memungkinkan komunikasi antar halaman (widget) dengan m
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ff5da4c8-659d-49a3-bf0f-e29d6e97e17d" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/4470b7b6-0f3a-4589-8b59-5ccee11fc0bc" />
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5a055061-7281-429a-bd8c-015e5a957161" />
-https://github.com/user-attachments/assets/80d7e0ce-4339-4964-a557-7a9c8fe60ae9 
+
+## Video Demo
+https://github.com/user-attachments/assets/80d7e0ce-4339-4964-a557-7a9c8fe60ae9>
 
